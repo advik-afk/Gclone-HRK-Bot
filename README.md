@@ -61,6 +61,9 @@ heroku ps:scale worker=0
 heroku ps:scale worker=1	 	
 ```
 
+Easy Method 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+  
 ## 📙 Deploy On VPS:-
 1. git clone https://github.com/Zero-The-Kamisama/Gclone-HRK-Bot
 2. cd Gclone-HRK-Bot
